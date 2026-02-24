@@ -3,105 +3,77 @@
     "drink": "Matcha",
     "buzz_score": 35,
     "trend": "stable",
-    "summary": "Matcha mentioned in fragrance context, not beverage trend; limited actionable insight for coffee shop menu.",
+    "summary": "Matcha mentioned in fragrance context shows sustained consumer interest, but article is not beverage-focused; monitor separately from food trends.",
     "category": "Trending Drinks"
   },
   {
     "drink": "Oat Milk",
     "buzz_score": 72,
     "trend": "stable",
-    "summary": "Oat milk remains the dominant non-dairy choice in major markets; ensure consistent supply and quality to meet customer expectations.",
+    "summary": "Oat milk remains the dominant non-dairy choice in major markets; ensure consistent supply and quality to meet established customer expectations.",
     "category": "Trending Drinks"
   },
   {
     "drink": "Boba Tea",
     "buzz_score": 72,
     "trend": "growing",
-    "summary": "Major boba chain expanding aggressively with direct Starbucks competition strategy; consider boba offerings to capture this growing segment",
+    "summary": "Major boba chain expanding aggressively with direct competition strategy against coffee giants; consider boba offerings to capture this growing segment.",
     "category": "Competitor Moves"
-  },
-  {
-    "drink": "Oat Milk",
-    "buzz_score": 72,
-    "trend": "stable",
-    "summary": "Oat milk remains a staple in specialty coffee culture with strong brand partnerships; maintain or expand offerings to stay competitive.",
-    "category": "Trending Drinks"
   },
   {
     "drink": "Crock-Pot Pudding Cake",
     "buzz_score": 35,
     "trend": "stable",
-    "summary": "Viral dessert trend with minimal relevance to coffee shop beverages; not a primary revenue driver for beverage-focused businesses.",
-    "category": "Trending Drinks"
+    "summary": "Viral dessert trend with limited beverage application; consider as food pairing opportunity rather than core menu addition.",
+    "category": "Seasonal Trends"
   },
   {
     "drink": "Coffee",
     "buzz_score": 62,
     "trend": "stable",
-    "summary": "Starbucks operational improvements driving positive sentiment; focus on coffee quality and store experience rather than innovation.",
+    "summary": "Starbucks operational improvements gaining positive media attention; focus on coffee quality and customer experience remains core to their strategy.",
     "category": "Competitor Moves"
   },
   {
-    "drink": "Oat Milk",
-    "buzz_score": 62,
-    "trend": "stable",
-    "summary": "Oat milk remains a staple alternative milk; monitor pricing trends as bulk deals suggest competitive pressure on margins.",
-    "category": "Trending Drinks"
-  },
-  {
-    "drink": "Oat Milk",
-    "buzz_score": 62,
-    "trend": "stable",
-    "summary": "Legal battles around oat milk branding continue, but the category remains established; ensure your menu clearly distinguishes plant-based options from dairy.",
-    "category": "Trending Drinks"
-  },
-  {
-    "drink": "Beer",
+    "drink": "Beer/Brewery Brews",
     "buzz_score": 35,
     "trend": "stable",
-    "summary": "Light-hearted seasonal content with minimal actionable insights for coffee shop positioning.",
-    "category": "Seasonal Trends"
-  },
-  {
-    "drink": "Oat Milk",
-    "buzz_score": 32,
-    "trend": "stable",
-    "summary": "Mentioned satirically in apocalyptic fiction; oat milk remains stable staple but no actionable trend signal",
-    "category": "Trending Drinks"
+    "summary": "Lighthearted meme content about beer drinking; minimal actionable insight for coffee shop menu planning.",
+    "category": "Competitor Moves"
   },
   {
     "drink": "Chai Tea Latte",
     "buzz_score": 72,
     "trend": "growing",
-    "summary": "Starbucks' first major reformulation in 25 years signals renewed consumer interest—consider refreshing your chai offering to compete.",
+    "summary": "Major reformulation by market leader after 25 years signals renewed consumer interest; consider reviewing your chai offering and potential menu updates.",
     "category": "Competitor Moves"
   },
   {
     "drink": "Vegan Protein Powder",
     "buzz_score": 35,
     "trend": "stable",
-    "summary": "Protein powder remains a stable ingredient for coffee shop smoothies and protein beverages; monitor customer demand but no urgent action needed.",
+    "summary": "Protein powder deals are common; consider vegan protein options as a beverage modifier for health-conscious customers, but demand remains steady rather than surging.",
     "category": "Trending Drinks"
   },
   {
     "drink": "Espresso",
-    "buzz_score": 45,
+    "buzz_score": 42,
     "trend": "stable",
-    "summary": "Light media coverage pairing espresso with zodiac trends; not a significant market shift indicator.",
+    "summary": "Zodiac-themed content generates mild engagement but doesn't indicate new demand; espresso remains a staple menu item.",
     "category": "Trending Drinks"
   },
   {
     "drink": "Matcha Latte",
-    "buzz_score": 42,
+    "buzz_score": 35,
     "trend": "stable",
-    "summary": "Matcha referenced in fashion marketing, but article is about sneakers—limited direct beverage relevance for menu planning.",
+    "summary": "Matcha used as design inspiration in fashion; no new beverage trend signal detected.",
     "category": "Trending Drinks"
   },
   {
-    "drink": "Starbucks February 2026 Menu (Raspberry-based drinks)",
+    "drink": "Starbucks February 2026 Valentine's Day Drinks",
     "buzz_score": 72,
     "trend": "growing",
-    "summary": "Starbucks' aggressive February menu expansion with 12 new items and Valentine's drinks is generating media interest; monitor their raspberry offerings for potential inspiration.",
-    "category": "Competitor Moves"
+    "summary": "Starbucks launching 12 new February items including Valentine's drinks; monitor seasonal offerings and consider limited-time promotions to compete",
+    "category": "Seasonal Trends"
   }
 ]
